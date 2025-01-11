@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# **Olá, meu nome é Ellen Dias!**
+# **Olá, meu nome é Samuel Souza!**
 
 - 🏬  Desenvolvedora Frontend na Astéria Digital Solution.
 - 🔭   Explorando novas tecnologias e desenvolvendo soluções de software.
