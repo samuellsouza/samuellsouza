@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🔭   Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱   Aprendendo mais sobre React Native.
 
-# DevOps
+## My Skills
 
-My Skills
+## DevOps
+
