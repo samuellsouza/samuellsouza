@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 🌱   Aprendendo mais sobre React Native.
 
 ## My Skills
-![](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />)
+<div>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+</div>
 
 ## DevOps
 <div>
