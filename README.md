@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **samuellsouza/samuellsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,10 @@ Here are some ideas to get you started:
 
 # **Olá, meu nome é Samuel Souza!**
 
-- 🏬  Desenvolvedora Frontend na Astéria Digital Solution.
+- 🏬  Desenvolvedor Back-end.
 - 🔭   Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱   Aprendendo mais sobre React Native.
+
+# DevOps
+
+My Skills
