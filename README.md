@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# **Olá, meu nome é Ellen Dias!**
+
+- 🏬  Desenvolvedora Frontend na Astéria Digital Solution.
+- 🔭   Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌱   Aprendendo mais sobre React Native.
