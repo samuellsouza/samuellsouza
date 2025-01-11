@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" style="filter: invert(100%);/>
+                    
 </div>
 
 ## Redes Socias
