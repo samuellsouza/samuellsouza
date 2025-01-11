@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 ## DevOps
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" style="filter: invert(1)/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
                     
 </div>
-
-
 
 ## Redes Socias
 
