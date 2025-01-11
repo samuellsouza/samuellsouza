@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 ## My Skills
 
 ## DevOps
+[](
+            <i class="devicon-git-plain colored"></i>
+          )
 
