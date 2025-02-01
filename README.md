@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 - 🔭   Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱   Aprendendo mais sobre React Native.
 
-### Sou um profissional experiente em Redes de computadores  e Tecnologia da Informação, com mais de uma década de atuação focada em infraestrutura de redes e desenvolvimento de sistemas. Atualmente, ocupo uma posição de liderança como Coordenador NOC e DevOps na IPS Power Telecomunicações, onde venho construindo uma sólida carreira desde 2013.
+#### Sou um profissional experiente em Redes de computadores  e Tecnologia da Informação, com mais de uma década de atuação focada em infraestrutura de redes e desenvolvimento de sistemas. Atualmente, ocupo uma posição de liderança como Coordenador NOC e DevOps na IPS Power Telecomunicações, onde venho construindo uma sólida carreira desde 2013.
 
-Minha expertise abrange tanto aspectos técnicos quanto gerenciais. No âmbito técnico, possuo amplo conhecimento em múltiplas tecnologias de rede, incluindo equipamentos Cisco, Huawei, Mikrotik e DATACOM, além de proficiência em diversas linguagens de programação como Python, SQL, HTML, JavaScript e CSS. Tenho experiência significativa com tecnologias modernas como Docker, Cloud Computing e frameworks como Angular e Node.js.
+#### Minha expertise abrange tanto aspectos técnicos quanto gerenciais. No âmbito técnico, possuo amplo conhecimento em múltiplas tecnologias de rede, incluindo equipamentos Cisco, Huawei, Mikrotik e DATACOM, além de proficiência em diversas linguagens de programação como Python, SQL, HTML, JavaScript e CSS. Tenho experiência significativa com tecnologias modernas como Docker, Cloud Computing e frameworks como Angular e Node.js.
 
-Como líder, coordeno equipes NOC nos níveis 1, 2 e 3, garantindo operações 24/7 e mantendo altos padrões de disponibilidade de serviços. Também gerencio projetos de implementação de fibra óptica, demonstrando capacidade de coordenar iniciativas complexas e equipes multidisciplinares.
+#### Como líder, coordeno equipes NOC nos níveis 1, 2 e 3, garantindo operações 24/7 e mantendo altos padrões de disponibilidade de serviços. Também gerencio projetos de implementação de fibra óptica, demonstrando capacidade de coordenar iniciativas complexas e equipes multidisciplinares.
 Mantenho-me constantemente atualizado através de certificações e treinamentos especializados, como evidenciado por minhas recentes qualificações em Linux System Administration, DevOps & Agile Culture, e certificações Cisco. 
 
-Minha formação técnica é complementada por habilidades linguísticas, com conhecimento técnico em inglês e espanhol, além do português nativo.
+#### Minha formação técnica é complementada por habilidades linguísticas, com conhecimento técnico em inglês e espanhol, além do português nativo.
 Tenho um forte compromisso com o aprendizado contínuo e desenvolvimento profissional, e mantenho interesses diversos que incluem programação, música e atividades físicas, o que contribui para uma abordagem equilibrada e dinâmica em minha carreira.
 Como profissional, destaco-me pela combinação de habilidades técnicas aprofundadas, experiência em gestão de equipes e projetos, e um compromisso contínuo com a excelência e atualização profissional.
 
