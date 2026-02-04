@@ -13,22 +13,95 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# **Olá, meu nome é Samuel Souza!**
+# 👋 Olá, eu sou o Samuel Souza
 
-- 🏬  Desenvolvedor Back-end.
-- 🔭   Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱   Aprendendo mais sobre React Native.
+💻 **Desenvolvedor Back-end** | 🌐 **Especialista em Redes & Infraestrutura** | 🚀 **DevOps**
 
-#### Sou um profissional experiente em Redes de computadores  e Tecnologia da Informação, com mais de uma década de atuação focada em infraestrutura de redes e desenvolvimento de sistemas. Atualmente, ocupo uma posição de liderança como Coordenador NOC e DevOps na IPS Power Telecomunicações, onde venho construindo uma sólida carreira desde 2013.
+- 🏗️ Atuação sólida em **infraestrutura de redes, sistemas críticos e automação**
+- 🔭 Explorando **novas tecnologias**, boas práticas DevOps e arquitetura de sistemas
+- 🌱 Em evolução constante com **React Native** e desenvolvimento full stack
 
-#### Minha expertise abrange tanto aspectos técnicos quanto gerenciais. No âmbito técnico, possuo amplo conhecimento em múltiplas tecnologias de rede, incluindo equipamentos Cisco, Huawei, Mikrotik e DATACOM, além de proficiência em diversas linguagens de programação como Python, SQL, HTML, JavaScript e CSS. Tenho experiência significativa com tecnologias modernas como Docker, Cloud Computing e frameworks como Angular e Node.js.
+---
 
-#### Como líder, coordeno equipes NOC nos níveis 1, 2 e 3, garantindo operações 24/7 e mantendo altos padrões de disponibilidade de serviços. Também gerencio projetos de implementação de fibra óptica, demonstrando capacidade de coordenar iniciativas complexas e equipes multidisciplinares.
-Mantenho-me constantemente atualizado através de certificações e treinamentos especializados, como evidenciado por minhas recentes qualificações em Linux System Administration, DevOps & Agile Culture, e certificações Cisco. 
+## 👨‍💻 Sobre mim
 
-#### Minha formação técnica é complementada por habilidades linguísticas, com conhecimento técnico em inglês e espanhol, além do português nativo.
-Tenho um forte compromisso com o aprendizado contínuo e desenvolvimento profissional, e mantenho interesses diversos que incluem programação, música e atividades físicas, o que contribui para uma abordagem equilibrada e dinâmica em minha carreira.
-Como profissional, destaco-me pela combinação de habilidades técnicas aprofundadas, experiência em gestão de equipes e projetos, e um compromisso contínuo com a excelência e atualização profissional.
+Sou um profissional de **Tecnologia da Informação** com mais de **10 anos de experiência**, atuando principalmente em **redes de computadores, infraestrutura e desenvolvimento de sistemas**.
+
+Atualmente, exerço o cargo de **Coordenador NOC e DevOps na IPS Power Telecomunicações**, empresa onde construo minha trajetória desde 2013. Ao longo dessa jornada, participei ativamente da **evolução tecnológica da operação**, lidando com ambientes críticos e alta disponibilidade.
+
+Tenho perfil **técnico e estratégico**, com facilidade para transitar entre operação, desenvolvimento, automação e liderança de equipes.
+
+---
+
+## 🧠 Experiência Técnica
+
+### 🌐 Redes & Infraestrutura
+- Equipamentos **Cisco, Huawei, Mikrotik e DATACOM**
+- Redes **L2 / L3**, monitoramento e troubleshooting avançado
+- Ambientes **24x7** com foco em disponibilidade e prevenção de falhas
+- Implementação e gestão de **infraestrutura de fibra óptica**
+
+### 💻 Desenvolvimento & Automação
+- **Python**, **SQL**, **HTML**, **CSS**, **JavaScript**
+- APIs, automações, scripts e integrações
+- Experiência com **Angular**, **Node.js** e fundamentos de **back-end**
+- Construção de soluções focadas em **eficiência operacional**
+
+### ⚙️ DevOps & Cloud
+- **Docker** e conteinerização de aplicações
+- Práticas **DevOps & Agile Culture**
+- Administração de sistemas **Linux**
+- Conceitos de **Cloud Computing** e automação de processos
+
+---
+
+## 👥 Liderança & Gestão
+
+- Coordenação de equipes **NOC Nível 1, 2 e 3**
+- Gestão de operações críticas com **SLA elevado**
+- Planejamento e execução de projetos técnicos
+- Comunicação clara entre times técnicos e gestão
+
+---
+
+## 📚 Certificações & Aprendizado Contínuo
+
+- Linux System Administration  
+- DevOps & Agile Culture  
+- Certificações Cisco  
+- Bootcamps e treinamentos em desenvolvimento e dados  
+
+📌 **Aprender continuamente faz parte da minha rotina.**
+
+---
+
+## 🌍 Idiomas
+
+- 🇧🇷 Português (nativo)  
+- 🇺🇸 Inglês técnico  
+- 🇪🇸 Espanhol técnico  
+
+---
+
+## ⚡ Interesses
+
+- Programação e automação  
+- Música 🎵  
+- Atividades físicas 🏃‍♂️  
+
+Acredito que equilíbrio pessoal contribui diretamente para **performance profissional**.
+
+---
+
+## 🛠️ Tech Stack (em construção)
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+</div>
+
 
 ## My Skills (Em construção)
 <div>
